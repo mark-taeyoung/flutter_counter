@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 import '../counter.dart';
-// import '../cubit/counter_cubit.dart';
 
 /// {@template counter_view}
 /// A [StatelessWidget] which reacts to the provided
